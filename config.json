@@ -8,6 +8,6 @@
   "cleanup": true,
   "theme": "cards",
   "theme-style": "./custom.css",
-  "footer": "Copyright Text",
+  "footer": "There is only one heroism in the world: to see the world as it is, and to love it.",
   "usage-stats": false
 }
